@@ -1,15 +1,15 @@
-# Penetration Testing Report
+# Report
 
-This folder contains the complete penetration testing report for the Metasploitable2 lab environment.
+This folder contains the full penetration test report for the Metasploitable2 lab assessment.
 
-The report documents:
+The report covers:
+- Executive Summary
+- Lab Environment and Scope
+- Reconnaissance and Enumeration
+- Exploitation — vsftpd, Samba, DVWA SQL Injection
+- Post-Exploitation — Credential Dumping and Password Cracking
+- Risk Summary and Remediation Recommendations
 
-* Lab setup
-* Network scanning
-* Vulnerability identification
-* Exploitation steps
-* Evidence screenshots
-* Final results and observations
-
-The full report is available in this folder.
-
+**Prepared by:** Prince Dubey  
+**Date:** May 2026  
+**Classification:** Lab Environment Only
